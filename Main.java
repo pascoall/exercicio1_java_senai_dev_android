@@ -8,7 +8,7 @@ public class Main{
     	    Scanner leia = new Scanner(System.in);
     	    String nome = leia.next();                                                                                          // variavel 'nome' criada para guarda o nome digitado pelo usuario
     	    
-    	    System.out.println("Olá " + nome + ", prazer em conhece-lo, preciso que insira 2 valores a seguir para uma soma");  // Saudação 
+    	    System.out.println("Olá " + nome + ", prazer em conhece-lo, preciso que insira 2 valores a seguir para uma operação");  // Saudação 
     	    
     	    System.out.println("Digite o primeiro valor: ");                                                                    // pede ao usuario digitar o valor do primeiro numero
             double n1 = leia.nextInt();                                                                                         // n1 guarda o valor digitado pelo usuario
